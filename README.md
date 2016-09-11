@@ -4,6 +4,7 @@ This course provides an introduction to programing using python. This course not
 
 ###Project 1: Getting started
 Setting up your work station.
+![Linux Filesystem](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Images/linux.jpg)
 
 #####Questions/Research:
 * What is open source?

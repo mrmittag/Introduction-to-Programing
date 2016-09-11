@@ -1,4 +1,4 @@
-A basic explaination of Linux/Unix commands(this list will be added to throughout the class)
+A basic list Linux/Unix commands(this list will grow throughout class)
 ====
 
 ###Command : cd
@@ -7,6 +7,24 @@ Change directory
 * -p print
 * -v entries are printed one per line
 * check man for more options
+
+#####Applications:
+* cd ~username will put you in the usernames home directory.
+* cd .. will move you up one directory. So if you are in /var/www/html cd ../ will move you to /var/www.
+* cd - will switch you to the previous directory.
+* cd and then the path will switch you to that directory. So cd /etc/ssh will take you to the ssh directory.
+
+#####Links:
+* [more on cd](https://kb.iu.edu/d/afsk#cd)
+
+
+###Command : ls
+List contents of directory
+#####Options:
+* -a all files including hidden files
+* -R recursively list subdirectories
+* -h print sizes in human readable format
+* check man for more options for example man ls
 
 #####Applications:
 * cd ~username will put you in the usernames home directory.

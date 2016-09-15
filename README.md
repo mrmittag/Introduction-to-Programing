@@ -26,7 +26,7 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Questions/Research:
 * Who created the python language?
-* Why was it named 'python' ? 
+* Why was it named python? 
 * How do you run a python file?
 * What is the interactive shell?
 

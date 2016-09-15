@@ -1,7 +1,7 @@
 Python QuickStart: Interactive shell.
 ====
 
-#####Start terminal
+###Open terminal
 
 * Type python
 * You should see something similar to this:

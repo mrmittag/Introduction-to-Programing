@@ -14,23 +14,23 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ###Math
 
-\>>> 8+8
+\>>> 8+8 	Addition
 
 16
 
-\>>> 8-4
+\>>> 8-4	Subtraction
 
 4
 
-\>>> 2*8
+\>>> 2*8	Multiplication
 
 16
 
-\>>> 4/2
+\>>> 4/2	Division (there is a faster way we will talk about later)
 
 2
 
-\>>> 2**3
+\>>> 2**3	Exponent
 
 8
 

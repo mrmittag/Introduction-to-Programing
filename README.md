@@ -22,7 +22,7 @@ This course provides an introduction to programing using python. We will not onl
 * [From Class](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/linux_unix_comands)
 * [Cloud9 Documentation](https://docs.c9.io/docs)
 
-###Project 2: More unix/linux commands. Python QuickStart
+###Project 2: Python QuickStart
 
 #####Questions/Research:
 * Who created the Python language?

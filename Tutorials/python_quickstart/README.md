@@ -21,7 +21,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 \>>> 8-4
 
 4
-\>>> 2*9
+
+\>>> 2*8
 
 16
 

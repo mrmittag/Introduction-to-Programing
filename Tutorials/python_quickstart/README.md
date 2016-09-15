@@ -26,6 +26,16 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 16
 
+\>>> 4/2
+
+2
+
+\>>> 2**3
+
+8
+
+
+
 
 
 

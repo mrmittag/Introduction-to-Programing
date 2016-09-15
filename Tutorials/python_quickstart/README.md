@@ -1,4 +1,4 @@
-Quickstart to python : interactive shell.
+Python quickstart: interactive shell.
 ====
 
 #####Start terminal
@@ -12,7 +12,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 \>>>
 
-###Math
+###Basic Math
 
 \>>> 8+8       
 

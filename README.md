@@ -25,13 +25,13 @@ This course provides an introduction to programing using python. We will not onl
 ###Project 2: Python QuickStart
 
 #####Questions/Research:
-* Who created the Python language?
-* Why was it named 'Python'? 
-* How do you run a Python file?
+* Who created the python language?
+* Why was it named 'python' ? 
+* How do you run a python file?
 * What is the interactive shell?
 
 #####Links:
-* [Wikipedia about Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
+* [Wikipedia about python](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
 * [Python QuickStart](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/python_quickstart)
 
 

@@ -100,6 +100,7 @@ remove file(delete).
 
 #####Usage:
 * rm nameoffile deletes file.
+
 #####Links:
 * [more on rm](http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html)
 

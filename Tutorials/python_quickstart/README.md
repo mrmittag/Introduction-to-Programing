@@ -1,4 +1,4 @@
-Python quickstart: interactive shell.
+Python QuickStart: Interactive shell.
 ====
 
 #####Start terminal
@@ -33,6 +33,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 \>>> 2**3      
 
 8
+
+###Variables
+
+
 
 
 

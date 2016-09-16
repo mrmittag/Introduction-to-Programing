@@ -45,7 +45,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 \>>> y ='rum'
 
-/>>> x+y
+\>>> x+y
 
 'redrum'
 
@@ -79,7 +79,33 @@ A slice tells the computer to print all of the letters from the start(0) to the 
 
 'der'
 
-x[start:end:steps]
+x[start : end : steps]
+
+###print() input()
+
+
+\>>> print("HelloWorld")
+
+HelloWorld
+
+\>>> print(x)
+
+red
+
+You can also print a slice:
+
+\>>> print(x[0:2])
+
+re
+
+\>>> x= input("What do you want x to be?")
+
+What do you want x to be? 'happy'
+
+\>>> x
+
+'happy'
+
 
 
 

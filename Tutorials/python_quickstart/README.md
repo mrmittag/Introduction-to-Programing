@@ -34,8 +34,53 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 8
 
-###Variables
+###Variables/Strings
 \>>> apples="bannanas"
+
+\>>> apples
+
+'bannanas'
+
+\>>> x ='red'
+
+\>>> y ='rum'
+
+/>>> x+y
+
+'redrum'
+
+###Slicing/Indexing
+
+\>>> x[0]
+
+'r'
+
+\>>> x[1]
+
+'e'
+
+\>>> x[2]
+
+'d'
+
+Each number represents an index or address for each letter in the string. It starts with 0
+
+\>>> x[0:2]
+
+'re'
+
+A slice tells the computer to print all of the letters from the start(0) to the end (2)
+
+\>>> x[0:3]
+
+'red'
+
+\>>> x[::-1]
+
+'der'
+
+x[start:end:steps]
+
 
 
 

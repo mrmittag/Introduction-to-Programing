@@ -35,11 +35,11 @@ Type "help", "copyright", "credits" or "license" for more information.
 8
 
 ###Variables/Strings
-\>>> apples="bannanas"
+\>>> apples="bananas"
 
 \>>> apples
 
-'bannanas'
+'bananas'
 
 \>>> x ='red'
 

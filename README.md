@@ -35,7 +35,7 @@ This course provides an introduction to programing using python. We will not onl
 * [Python QuickStart](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/python_quickstart)
 * [Python organization](https://www.python.org)
 
-###Week 2: Guess the number(based on Al Sweigart)
+###Week 2: Guess the number
 
 #####Questions/Research:
 * What are conditional statements?

@@ -43,10 +43,22 @@ This course provides an introduction to programing using python. We will not onl
 * What is a game loop?
 
 #####Links:
-* [Python wiki page on conditionals](https://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements)
+* [Python wikibooks on conditionals](https://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements)
 
 * [Project 1/Guess the number](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_1)
 
+
+
+###Week 2 (part 2):
+
+#####Questions/Research:
+* Conditional statement review.
+* How do you clone a repository from github?
+* How do you create a pull request?
+
+#####Links:
+* [How to create a pull request]()
+* [More on conditional statements]()
 
 
 

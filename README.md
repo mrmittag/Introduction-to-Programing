@@ -49,16 +49,22 @@ This course provides an introduction to programing using python. We will not onl
 
 
 
-###Week 2 (part 2):
+###Week 2 (part 2): Lets git after it!
 
 #####Questions/Research:
-* Conditional statement review.
+* Why use git?
+* GITting started with git.
 * How do you clone a repository from github?
+* What are the three states your work is in when using git?
+* git config --global
+* git add 
+* git commit -m "Yo!"
 * How do you create a pull request?
 
 #####Links:
-* [How to create a pull request](https://www.wordfugue.com/my-open-source-workflow/)
-* [More on conditional statements]()
+* [One of the best git how to books](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* [This a realy great explaination of a git work flow](https://www.wordfugue.com/my-open-source-workflow/)
+
 
 
 

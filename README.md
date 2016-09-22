@@ -2,7 +2,7 @@ Introduction to programing
 ====
 This course provides an introduction to programing using python. We will not only focuses on the primary features of python but also issues of programing design and development.  Some python specific topics include: control structures, primitive types, containers, functions, classes and some of python’s more advanced features such as list comprehension and decorators.  Students will build and maintain their own cloud servers, using them as their primary development workstation.  In doing so students not only learn to write code but also gain an understanding of  unix/linux operating systems. 
 
-###Project 1: Getting started(Setting up your work station)
+###Week 1: Getting started(Setting up your work station)
 
 ![Linux Filesystem](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Images/linux.jpg)
 
@@ -22,7 +22,7 @@ This course provides an introduction to programing using python. We will not onl
 * [From Class](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/linux_unix_comands)
 * [Cloud9 Documentation](https://docs.c9.io/docs)
 
-###Project 2: Python QuickStart
+###Week 1 (part2): Python QuickStart
 
 #####Questions/Research:
 * Who created the python language?
@@ -35,7 +35,17 @@ This course provides an introduction to programing using python. We will not onl
 * [Python QuickStart](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/python_quickstart)
 * [Python organization](https://www.python.org)
 
+###Week 2: Guess the number(based on Al Sweigart)
 
+#####Questions/Research:
+* What are conditional statements?
+* What are the operators used in a conditional statement?
+* What is a game loop?
+
+#####Links:
+* [Python wiki page on conditionals](https://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements)
+
+* [Project 1/Guess the number](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_1)
 
 
 

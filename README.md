@@ -57,7 +57,7 @@ This course provides an introduction to programing using python. We will not onl
 * How do you create a pull request?
 
 #####Links:
-* [How to create a pull request]()
+* [How to create a pull request](https://www.wordfugue.com/my-open-source-workflow/)
 * [More on conditional statements]()
 
 

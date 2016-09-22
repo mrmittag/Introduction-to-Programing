@@ -55,16 +55,18 @@ This course provides an introduction to programing using python. We will not onl
 * Why use git?
 * GITting started with git.
 * How do you clone a repository from github?
-* What are the three states your work is in when using git?
 * git config --global
+* git status
 * git add 
 * git commit -m "Yo!"
 * How do you create a pull request?
 
 #####Links:
 * [One of the best git how to books](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-* [This a realy great explaination of a git work flow](https://www.wordfugue.com/my-open-source-workflow/)
+* [This a really great explaination of a git work flow](https://www.wordfugue.com/my-open-source-workflow/)
 
+#####Assignment
+* Read Chapter 1 -3 of the git book from the above link.
 
 
 

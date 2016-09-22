@@ -50,7 +50,7 @@ This course provides an introduction to programing using python. We will not onl
 
 
 
-d
+
 
 
 

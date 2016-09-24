@@ -20,7 +20,7 @@ def kitchen():
 		else:
 			kitchen()
 	else:
-		print("I do't understand you")
+		print("I don't understand you")
 		kitchen() 
   
 def bathroom():
@@ -41,7 +41,7 @@ def bathroom():
 		else:
 			bathroom()
 	else:
-		print("I do't understand you")
+		print("I don't understand you")
 		bathroom() 
    
 def livingroom():
@@ -61,7 +61,7 @@ def livingroom():
 		else:
 			livingroom()
 	else:
-		print("I do't understand you") 
+		print("I don't understand you") 
 		livingroom()
    
 

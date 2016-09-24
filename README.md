@@ -82,7 +82,7 @@ This course provides an introduction to programing using python. We will not onl
 * Create a pull request and have your game merged into the student work repository.
 
 #####Links:
-* [Challenge Requirements]()
+* [Challenge Requirements](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_3)
 * [Example I wrote in class](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Projects/project_3/chooseyerownsketch.py)
 
 

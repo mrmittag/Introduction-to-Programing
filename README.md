@@ -65,10 +65,25 @@ This course provides an introduction to programing using python. We will not onl
 * [One of the best git how to books](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 * [This a really great explaination of a git work flow](https://www.wordfugue.com/my-open-source-workflow/)
 
-#####Assignment
+#####Assignment:
 * Read Chapter 1 -3 of the git book from the above link.
 
+###Week 3: Choose your own adventure! 
 
+#####Questions/Research:
+* How does a text adventure game work?
+* What are some examples of text adventure games?
+* How can we use control statements to direct the users choices?
+* How do you make a pull request?
+
+#####Assignment:
+* Build a team
+* As a team create a text based adventure game.
+* Create a pull request and have your game merged into the student work repository.
+
+#####Links:
+[Challenge Requirements]()
+[Example I wrote in class](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Projects/project_3/chooseyerownsketch.py)
 
 
 

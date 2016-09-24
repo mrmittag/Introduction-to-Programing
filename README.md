@@ -19,7 +19,7 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Links:
 * [Basic commands](http://www.tecmint.com/useful-linux-commands-for-newbies/)
-* [From Class](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/linux_unix_comands)
+* [From Class](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/linux_unix_comands_quickstart)
 * [Cloud9 Documentation](https://docs.c9.io/docs)
 
 ###Week 1 (part2): Python QuickStart

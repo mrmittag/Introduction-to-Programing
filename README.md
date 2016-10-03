@@ -86,12 +86,15 @@ This course provides an introduction to programing using python. We will not onl
 * [Example I wrote in class](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Projects/project_3/chooseyerownsketch.py)
 
 ###Week 4: String built-ins!!!!
+
 #####Questions/Research:
 * What do we mean when we say built-in?
 * How many built-ins methods are there for a string in python 3?
 * What is your favorite string built-in? 
+
 #####Assignment:
 * Pick a partner and define several string built-ins along with providing examples of how they work.
+
 #####Links:
 * [string methods1](https://docs.python.org/2/library/string.html)
 * [string methods2](https://en.wikibooks.org/wiki/Python_Programming/Strings)

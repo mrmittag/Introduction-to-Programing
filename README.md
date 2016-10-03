@@ -94,6 +94,7 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Assignment:
 * Pick a partner and define several string built-ins along with providing examples of how they work.
+* Create a pull request to have your definitions added to the class repo.
 
 #####Links:
 * [string methods1](https://docs.python.org/2/library/string.html)

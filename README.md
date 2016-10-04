@@ -89,7 +89,7 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Questions/Research:
 * What do we mean when we say built-in?
-* How many built-ins methods are there for a string in python 3?
+* How many built-in methods are there for a string in python 3?
 * What is your favorite string built-in? 
 
 #####Assignment:

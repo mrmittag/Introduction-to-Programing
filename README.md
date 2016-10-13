@@ -85,7 +85,7 @@ This course provides an introduction to programing using python. We will not onl
 * [Challenge Requirements](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_3)
 * [Example I wrote in class](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Projects/project_3/chooseyerownsketch.py)
 
-###Week 4: String built-ins!!!!
+###Week 4: String built-ins!!!!https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/curses_tutorial/curses
 
 #####Questions/Research:
 * What do we mean when we say built-in?
@@ -99,6 +99,21 @@ This course provides an introduction to programing using python. We will not onl
 #####Links:
 * [string methods1](https://docs.python.org/2/library/string.html)
 * [string methods2](https://en.wikibooks.org/wiki/Python_Programming/Strings)
+
+###Week5: Curses @#$%@%!
+
+#####Questions/Research:
+* How do you import a library? Oh yea what is a library?
+* What does the library curses alow you to do ?
+
+#####Assignment:
+
+* Make your own custom snake game using th python curses library.
+
+#####Links:
+
+* [Class tutorials](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/curses_tutorial/curses)
+
 
 
 

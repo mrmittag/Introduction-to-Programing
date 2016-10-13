@@ -19,7 +19,7 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Links:
 * [Basic commands](http://www.tecmint.com/useful-linux-commands-for-newbies/)
-* [From Class](https://github.com/mrmittag/Introduction-to-Programing/Tutorials/linux_unix_comands_quickstart)
+* [From Class](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/linux_unix_comands_quickstart/)
 * [Cloud9 Documentation](https://docs.c9.io/docs)
 
 ###Week 1 (part2): Python QuickStart
@@ -85,6 +85,20 @@ This course provides an introduction to programing using python. We will not onl
 * [Challenge Requirements](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_3)
 * [Example I wrote in class](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Projects/project_3/chooseyerownsketch.py)
 
+###Week 4: String built-ins!!!!
+
+#####Questions/Research:
+* What do we mean when we say built-in?
+* How many built-in methods are there for a string in python 3?
+* What is your favorite string built-in? 
+
+#####Assignment:
+* Pick a partner and define several string built-ins along with providing examples of how they work.
+* Create a pull request to have your definitions added to the class repo.
+
+#####Links:
+* [string methods1](https://docs.python.org/2/library/string.html)
+* [string methods2](https://en.wikibooks.org/wiki/Python_Programming/Strings)
 
 
 

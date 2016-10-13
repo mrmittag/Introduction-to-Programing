@@ -112,7 +112,7 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Links:
 
-* [Class tutorials](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/curses_tutorial/curses)
+* [Class tutorials](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/curses)
 
 
 

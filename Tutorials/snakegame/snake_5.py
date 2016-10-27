@@ -1,9 +1,15 @@
 import curses
 import time
+import os
 
+screen = curses.initscr()	# Create screen object 
+head=[1,1]					# This is a list that holds the y and x coordinates of the snake
 
-screen = curses.initscr()
-head=[1,1]
+def initialize():
+	"""This function sets the attributes and appearence of our screen"""
+	screen.border()
+	screen.keypad(1)
+	screen.nodelay(1)
 
 
 def processInput(direction):
@@ -48,6 +54,7 @@ def collison(direction):
         return False
     
 def start():
+	"""This function is used to aske the user if they would like to start could also be used for any instructions"""
 	screen.nodelay(0)
 	screen.addstr("press 's' to start")
 	choice = screen.getch()
@@ -62,18 +69,22 @@ def display():
     screen.addch(head[0],head[1],'x')
 
 def endgame():
-	
-	print("bye")
+	"""This screen asks the user if they would like to play again if not it exits the program"""
+	screen.nodelay(0)
+	screen.addstr("Would you like to play again? press y or n")
+	choice = screen.getch()
+	if choice == ord('y'):
+		screen.clear()
+		game()
+	else:
+		os.system('cls' if os.name == 'nt' else 'reset') # this line resets the terminal window back to normal
+
 
 def game():
-
-	
-	game_over = start()  
-	screen.border()
-	screen.keypad(1)
-	screen.nodelay(1)
-	direction =0 
-
+	"""This is our basic game loop wraped inside a function """
+	game_over = start() # we set the variable game_over to the results of calling the start function
+	initialize() 
+	direction =0
 	while game_over == False:
 		direction = processInput(direction)
 		update(direction)
@@ -82,4 +93,3 @@ def game():
 	endgame()
 
 game()
-

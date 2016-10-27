@@ -5,6 +5,7 @@ import os
 screen = curses.initscr()	# Create screen object 
 head=[1,1]					# This is a list that holds the y and x coordinates of the snake
 
+
 def initialize():
 	"""This function sets the attributes and appearence of our screen"""
 	screen.border()
@@ -39,6 +40,7 @@ def update(direction):
         
     screen.refresh()
     time.sleep(0.1)
+
     
 def collison(direction):
     """This function is used to detect a collision"""
@@ -52,6 +54,7 @@ def collison(direction):
         return True    
     else:
         return False
+
     
 def start():
 	"""This function is used to aske the user if they would like to start could also be used for any instructions"""
@@ -63,10 +66,12 @@ def start():
 		return False
 	else:
 		return True
+
 	
 def display():
     """This function draws all of the stuff in the game"""
     screen.addch(head[0],head[1],'x')
+
 
 def endgame():
 	"""This screen asks the user if they would like to play again if not it exits the program"""
@@ -91,5 +96,6 @@ def game():
 		display()
 		game_over = collison(direction)	
 	endgame()
+
 
 game()

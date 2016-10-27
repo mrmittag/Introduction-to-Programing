@@ -47,6 +47,6 @@ while game_over == False:
     direction = processInput(direction)
     update(direction)
     display()
- 
+curses.edwin()
     
 

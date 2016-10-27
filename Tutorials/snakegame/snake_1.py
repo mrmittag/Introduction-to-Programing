@@ -27,10 +27,9 @@ def game():
 		elif direction == 3:
 			head[0] -= 1
 		
-		if screen.inch(head[0],head[1]) != ord(' '):
-			gameover =True
+		
 		screen.refresh()
 		time.sleep(0.1)
 game()
-curses.edwin()
+curses.endwin()
 

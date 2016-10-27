@@ -27,7 +27,7 @@ def processInput(direction):
     
     
 def update(direction):
-    """This function updates the state of the game. It advances the game one step.Performs AI and Physics""" 
+    """This function updates the state of the game. It advances the game one step.""" 
     if direction == 3:
         head[0] -=1
     elif direction == 2:

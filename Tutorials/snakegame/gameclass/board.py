@@ -5,7 +5,6 @@ class Board():
         self.screen=screen
     
 	def create_board(self):
-	"""This function creates a list of coordinates for the 'wall' elements in the game'"""
 		pass
 
     def update(self):

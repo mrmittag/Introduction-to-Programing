@@ -13,7 +13,6 @@ class Hero():
     	self.screen.nodelay(1)
         
     def update(self):
-        """This function updates the state of the game. It advances the game one step.""" 
         if self.direction == 3:
             self.head[0] -=1
        
@@ -30,11 +29,10 @@ class Hero():
         time.sleep(0.1)
     
     def display(self):
-        """This function draws all of the objects in the game"""
+       
         self.screen.addch(self.head[0],self.head[1],'x')
             
     def process_input(self):
-        """This function processes any user input. To change to letters use ord()"""
         userinput = self.screen.getch()
         if userinput == curses.KEY_UP:
             self.direction = 3
@@ -64,20 +62,6 @@ class Hero():
         os.system('cls' if os.name == 'nt' else 'reset')
         exit()
         
-if __name__ == "__main__":
-    """This is used only when testing runing the module directly"""
-    screen = curses.initscr()
-    direction =4
-    x = Hero([5,5],screen,direction)
-
-    try:
-        while True:
-            x.process_input()
-            x.update()
-            x.display()
-    except:
-        os.system('cls' if os.name == 'nt' else 'reset')
-
 
 
 

@@ -1,5 +1,5 @@
 class Board():
-    """Class for drawing game board"""
+    """Class for creating a game board. Currently not implemented"""
     def __init__(self,screen):
         self.screen=screen
     
@@ -7,7 +7,7 @@ class Board():
         pass
     
     def display(self):
-        self.screen.addstr(3,3,"This is the board")
+        pass
        
 
     

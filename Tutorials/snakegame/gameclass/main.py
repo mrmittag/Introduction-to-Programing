@@ -1,8 +1,6 @@
 import curses            
 import time
 import os
-
-
 # import the hero,board and other classes need to create the game.
 from hero import *          
 from board import *
@@ -25,11 +23,10 @@ def update():
 def collide():
     test = x.collide()
     if test == True:
-        c = "hit"
+        return True
     elif test == False:
-        c = "no hit"
-    screen.addstr(6,6,c)
-        
+       return False
+          
 def display():
     board.display()
     x.display()
@@ -45,7 +42,6 @@ if __name__=="__main__":
             process_input()
             update()
             display()
-            
-            
+                      
     except:
         os.system('cls' if os.name == 'nt' else 'reset')

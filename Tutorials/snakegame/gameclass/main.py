@@ -7,21 +7,21 @@ from board import *
 
 screen = curses.initscr()
 direction = 0
-x = Hero([5,5],screen,direction)
-board =Board(screen)
+hero = Hero([5,5],screen,direction)
+board = Board(screen)
 
 
 def init():
     direction =4
-    x.head=[5,5]
+    hero.head=[5,5]
 
 def update():
-    x.update()
+    hero.update()
     board.update()
     collide()
       
 def collide():
-    test = x.collide()
+    test = hero.collide()
     if test == True:
         return True
     elif test == False:
@@ -29,10 +29,10 @@ def collide():
           
 def display():
     board.display()
-    x.display()
+    hero.display()
        
 def process_input():
-   x.process_input()
+   hero.process_input()
  
 if __name__=="__main__":
     init()

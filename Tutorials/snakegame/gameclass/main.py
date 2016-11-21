@@ -9,7 +9,7 @@ screen = curses.initscr()
 direction = 0
 hero = Hero([5,5],screen,direction)
 board = Board(screen)
-
+curses.curs_set(0)
 
 def init():
     direction =4

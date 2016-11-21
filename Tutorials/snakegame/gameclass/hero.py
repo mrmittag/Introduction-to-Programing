@@ -31,6 +31,7 @@ class Hero():
     def display(self):
        
         self.screen.addch(self.head[0],self.head[1],'x')
+     
             
     def process_input(self):
         userinput = self.screen.getch()

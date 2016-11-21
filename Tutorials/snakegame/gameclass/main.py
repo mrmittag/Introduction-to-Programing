@@ -2,7 +2,9 @@ import curses
 import time
 import os
 
-from hero import *          # import the hero,board and other classes need to create the game.
+
+# import the hero,board and other classes need to create the game.
+from hero import *          
 from board import *
 
 screen = curses.initscr()

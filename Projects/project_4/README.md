@@ -21,6 +21,7 @@ This project is based on the old game of hangman. Our program will pick a word a
 * It is ok to use other peoples code but you MUST modify it and give the original authors credit!!!!!
 * Your code should allow users to guess letters using the python function input()
 * Your code should keep track of correct and incorrect answers.
-* Your code must 
+* Your code must stop when the user gets the answer correct or answers incorrectly tomany times
+
 
 

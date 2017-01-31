@@ -1,11 +1,42 @@
 from random import shuffle
 
+suit = '♥ ♦ ♣ ♠'.split()
 
 def deal(deck,number_in_hand=5):
 	hand=""
 	for card in range(number_in_hand):
 		hand = hand  + deck.pop() + ' '
 	return hand 
+
+def count_pairs(hand):
+	count=[]
+	for card in set(hand)
+		count.append(hand.count(card))
+	return count	
+
+def pairs(hand):
+	set_hand = set(hand)
+	number_unique_cards = len(set_hand)
+	pairs = count_pairs(hand)
+
+	if number_unique_cards == 2
+		if 4 in pairs:
+			return "four of a kind" # four of a kind needs another check
+		else: 
+			return "full house"
+
+	elif number_unique_cards == 3
+		if 3 in pairs:
+			return "trips" # or trips
+		else:
+			return "two pair"
+	elif number_unique_cards == 4
+		return "pair"
+	else:
+		return "no pair"		
+
+
+
 
 
 def create_deck():
@@ -17,6 +48,10 @@ def create_deck():
 			deck.append(rank + ' ' +suit)
 	shuffle(deck)
 	return deck
+
+
+
+
 
 play=True
 new_deck = create_deck()

@@ -1,13 +1,12 @@
 from random import randint
-play=True
+
+play = True
 moves = ["rock","paper","scissors"]
 
-while play ==True:
+while play == True:
 	user_choice = input("What is your choice: rock, paper or scissor")
 	random_number = randint(0,2)
 	computer_choice = moves[random_number]
-	print(computer_choice)
-	print(user_choice)
 
 	if user_choice == "rock":
 		if computer_choice == "rock":
@@ -49,8 +48,8 @@ while play ==True:
 	if win == True:
 		print("You won!")
 
-	elif win ==False:
+	elif win == False:
 		print("You lost!")
 
-	elif tie ==True:
+	elif tie == True:
 		print("We tied!")

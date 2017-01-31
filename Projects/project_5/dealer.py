@@ -1,6 +1,6 @@
 from random import shuffle
 
-suit = '♥ ♦ ♣ ♠'.split()
+#suit = '♥ ♦ ♣ ♠'.split()
 
 def deal(deck,number_in_hand=5):
 	hand=""

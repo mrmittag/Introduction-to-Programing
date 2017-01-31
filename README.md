@@ -114,8 +114,22 @@ This course provides an introduction to programing using python. We will not onl
 
 * [Class tutorials](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/curses)
 
+###Challenge 7: Online Learning Tools
+
+#####Questions/Research:
+* What are some online learning tools?
+* What is a Masive Open Online Course?
+* What is code academy? Coursera? edX?
+* How can we use open source courses to supplement the classroom?
 
 
+#####Assignment:
+* Take an online course from Code Academy
+
+#####Links:
+* [CodeAcademy](https://www.codecademy.com/)
+* [Coursera](https://www.coursera.org/)
+* [edX](https://www.edx.org/)
 
 
 

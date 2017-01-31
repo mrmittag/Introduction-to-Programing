@@ -2,7 +2,7 @@ Introduction to programing
 ====
 This course provides an introduction to programing using python. We will not only focuses on the primary features of python but also issues of programing design and development.  Some python specific topics include: control structures, primitive types, containers, functions, classes and some of python’s more advanced features such as list comprehension and decorators.  Students will build and maintain their own cloud servers, using them as their primary development workstation.  In doing so students not only learn to write code but also gain an understanding of  unix/linux operating systems. 
 
-###Week 1: Getting started(Setting up your work station)
+###Challenge 0: Getting started(Setting up your work station)
 
 ![Linux Filesystem](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Images/linux.jpg)
 
@@ -22,7 +22,7 @@ This course provides an introduction to programing using python. We will not onl
 * [From Class](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/linux_unix_comands_quickstart/)
 * [Cloud9 Documentation](https://docs.c9.io/docs)
 
-###Week 1 (part2): Python QuickStart
+###Challenge 1: Python QuickStart
 
 #####Questions/Research:
 * Who created the python language?
@@ -35,7 +35,7 @@ This course provides an introduction to programing using python. We will not onl
 * [Python QuickStart](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/python_quickstart)
 * [Python organization](https://www.python.org)
 
-###Week 2: Guess the number
+###Challenge 2: Guess the number
 
 #####Questions/Research:
 * What are conditional statements?
@@ -49,7 +49,7 @@ This course provides an introduction to programing using python. We will not onl
 
 
 
-###Week 2 (part 2): Lets git after it!
+###Challenge 3 (part 2): Lets git after it!
 
 #####Questions/Research:
 * Why use git?
@@ -68,7 +68,7 @@ This course provides an introduction to programing using python. We will not onl
 #####Assignment:
 * Read Chapter 1 -3 of the git book from the above link.
 
-###Week 3: Choose your own adventure! 
+###Challenge 4: Choose your own adventure! 
 
 #####Questions/Research:
 * How does a text adventure game work?
@@ -85,7 +85,7 @@ This course provides an introduction to programing using python. We will not onl
 * [Challenge Requirements](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_3)
 * [Example I wrote in class](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Projects/project_3/chooseyerownsketch.py)
 
-###Week 4: String built-ins!!!!
+###Challenge 5: String built-ins!!!!
 
 #####Questions/Research:
 * What do we mean when we say built-in?
@@ -100,7 +100,7 @@ This course provides an introduction to programing using python. We will not onl
 * [string methods1](https://docs.python.org/2/library/string.html)
 * [string methods2](https://en.wikibooks.org/wiki/Python_Programming/Strings)
 
-###Week5: Curses @#$%@%!
+###Challenge 6: Curses @#$%@%!
 
 #####Questions/Research:
 * How do you import a library? Oh yea what is a library?

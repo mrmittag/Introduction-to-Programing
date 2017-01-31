@@ -49,7 +49,7 @@ This course provides an introduction to programing using python. We will not onl
 
 
 
-###Challenge 3 (part 2): Lets git after it!
+###Challenge 3: Lets git after it!
 
 #####Questions/Research:
 * Why use git?

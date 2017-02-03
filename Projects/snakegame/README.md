@@ -1,1 +1,0 @@
-This is a snake game based on the code from : https://www.youtube.com/user/pythoncursestutorial

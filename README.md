@@ -82,8 +82,7 @@ This course provides an introduction to programing using python. We will not onl
 * Create a pull request and have your game merged into the student work repository.
 
 #####Links:
-* [Challenge Requirements](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_3)
-* [Example I wrote in class](https://github.com/mrmittag/Introduction-to-Programing/blob/master/Projects/project_3/chooseyerownsketch.py)
+* [Challenge Requirements/Examples](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_3)
 
 ###Challenge 5: String built-ins!!!!
 
@@ -112,7 +111,7 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Links:
 
-* [Class tutorials](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Tutorials/curses)
+* [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_3)
 
 ###Challenge 7: Online Learning Tools
 
@@ -131,5 +130,61 @@ This course provides an introduction to programing using python. We will not onl
 * [Coursera](https://www.coursera.org/)
 * [edX](https://www.edx.org/)
 
+###Challenge 8: Hangman
+
+#####Questions/Research:
+* What is a game loop?
+* What is a tupple?
+* How do you accept user input?
+* How do you draw graphics with only text characters?
 
 
+#####Assignment:
+* Build a custom hangman game.
+
+#####Links:
+* [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_4)
+
+
+###Challenge 9: Card Dealer
+
+#####Questions/Research:
+* What is a nested for loop?
+* How do you "shuffle" a list using the Random library?
+* Is it possible to add suit symbols in a command line game?
+* What does .isdigit() do?
+
+
+#####Assignment:
+* Build a virtual card dealer
+
+#####Links:
+* [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_5)
+
+
+###Challenge 10: Rock Paper Scissors
+
+#####Questions/Research:
+* What is game logic?
+* What is artificial intelligence?
+* What is a game tree?
+
+
+#####Assignment:
+* Build a rock paper scissors game
+
+#####Links:
+* [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_6)
+
+
+###Challenge 11: Slack attack
+
+#####Questions/Research:
+* How what are some ways programers comunicate about their projets?
+* What is this Slack?
+
+#####Assignment:
+* Join this class's slack channel
+
+#####Links:
+* [Slack](https://slack.com/)

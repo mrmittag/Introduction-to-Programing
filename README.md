@@ -45,7 +45,7 @@ This course provides an introduction to programing using python. We will not onl
 #####Links:
 * [Python wikibooks on conditionals](https://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements)
 
-* [Project 1/Guess the number](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_1)
+* * [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_1)
 
 
 
@@ -111,7 +111,7 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Links:
 
-* [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_3)
+* [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_2)
 
 ###Challenge 7: Online Learning Tools
 
@@ -180,7 +180,7 @@ This course provides an introduction to programing using python. We will not onl
 ###Challenge 11: Slack attack
 
 #####Questions/Research:
-* How what are some ways programers comunicate about their projets?
+* What are some ways programers comunicate about their projets?
 * What is this Slack?
 
 #####Assignment:

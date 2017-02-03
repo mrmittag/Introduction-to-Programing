@@ -45,7 +45,7 @@ This course provides an introduction to programing using python. We will not onl
 #####Links:
 * [Python wikibooks on conditionals](https://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements)
 
-* * [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_1)
+* [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_1)
 
 
 

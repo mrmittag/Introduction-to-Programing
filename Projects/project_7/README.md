@@ -1,6 +1,6 @@
 Send a text message using Twilio 
 ====
-Build an application that allows a user to send a custom text message via the comandline.
+Build an application that allows a user to send a custom text message via the comand-line.
 
 #####Python tools used in this code
 * if elif else

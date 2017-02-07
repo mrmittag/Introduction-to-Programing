@@ -107,7 +107,7 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Assignment:
 
-* Make your own custom snake game using th python curses library.
+* Make your own custom snake game using the python curses library.
 
 #####Links:
 
@@ -188,3 +188,17 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Links:
 * [Slack](https://slack.com/)
+
+###Challenge 12: Send sms
+
+#####Questions/Research:
+* What is an API?
+* What are some popular API's used for making voice calls, sending text messages and other multimedia communications?
+* How do you install library's for python?
+
+#####Assignment:
+* Create a Twilio account.
+* Write some python code that will send a custom text message using user input.
+
+#####Links:
+* [Twilio](https://www.twilio.com/)

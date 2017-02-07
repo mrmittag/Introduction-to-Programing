@@ -203,3 +203,4 @@ This course provides an introduction to programing using python. We will not onl
 #####Links:
 * [Twilio](https://www.twilio.com/)
 * [API wikipedia page](https://en.wikipedia.org/wiki/Application_programming_interface)
+* [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_7)

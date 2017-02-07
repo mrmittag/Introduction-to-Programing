@@ -189,7 +189,7 @@ This course provides an introduction to programing using python. We will not onl
 #####Links:
 * [Slack](https://slack.com/)
 
-###Challenge 12: Send sms
+###Challenge 12: Send SMS
 
 #####Questions/Research:
 * What is an API?
@@ -202,3 +202,4 @@ This course provides an introduction to programing using python. We will not onl
 
 #####Links:
 * [Twilio](https://www.twilio.com/)
+* [API wikipedia page](https://en.wikipedia.org/wiki/Application_programming_interface)

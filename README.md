@@ -222,5 +222,6 @@ This course provides an introduction to programing using python. We will not onl
 #####Links:
 * [Twitter](https://twitter.com/)
 * [Python Library](https://python-twitter.readthedocs.io/en/latest/)
+* [Another Python Library](http://tweepy.readthedocs.io/en/v3.5.0/)
 * [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_8)
 

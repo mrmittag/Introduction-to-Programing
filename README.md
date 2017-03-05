@@ -204,3 +204,23 @@ This course provides an introduction to programing using python. We will not onl
 * [Twilio](https://www.twilio.com/)
 * [API wikipedia page](https://en.wikipedia.org/wiki/Application_programming_interface)
 * [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_7)
+
+
+###Challenge 13: Twitter bot
+
+#####Questions/Research:
+* What is an API?
+* What are some popular API's used for making voice calls, sending text messages and other multimedia communications?
+* How do you install library's for python?
+
+#####Assignment:
+* Create a gmail account for your twitter bot.
+* Create a twitter account.
+* Create an app for twitter.
+* Using the python library python-twitter or tweepy build a bot that will post a status update to your bots twitter account.
+
+#####Links:
+* [Twitter](https://twitter.com/)
+* [Python Library](https://python-twitter.readthedocs.io/en/latest/)
+* [Challenge Requirements/Class Notes](https://github.com/mrmittag/Introduction-to-Programing/tree/master/Projects/project_8)
+
